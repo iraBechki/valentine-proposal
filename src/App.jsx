@@ -71,7 +71,7 @@ function App() {
       {yesPressed ? (
         <>
           <div className="img-container">
-            <img src="bear_hug.png" alt="Bear Hug" />
+            <img src="minion_hug.gif" alt="Minion Hug" />
           </div>
           <h1 className="text-4xl font-bold my-4">Yay!!! I love you! ❤️</h1>
         </>
