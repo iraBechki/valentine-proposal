@@ -71,14 +71,14 @@ function App() {
       {yesPressed ? (
         <>
           <div className="img-container">
-            <img src="https://media.tenor.com/2jd3XijqXA8AAAAi/milk-and-mocha-bear-hug.gif" alt="Bear Hug" />
+            <img src="bear_hug.png" alt="Bear Hug" />
           </div>
           <h1 className="text-4xl font-bold my-4">Yay!!! I love you! ❤️</h1>
         </>
       ) : (
         <>
           <div className="img-container">
-            <img src="/minion.png" alt="Minion" />
+            <img src="minion.png" alt="Minion" />
           </div>
           <h1>Will you be my Valentine?</h1>
           <div className="buttons">
